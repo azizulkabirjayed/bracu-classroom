@@ -53,15 +53,15 @@ Make sure you have [Python 3.10+](https://www.python.org/downloads/) and [Git](h
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Sample Visualizations
-![Visualization 1](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b187c3f1c782f2757083c5a33da18b26d4bfd4f1/4/1.gif)
-![Visualization 2](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b187c3f1c782f2757083c5a33da18b26d4bfd4f1/4/2.gif)
-![Visualization 3](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b187c3f1c782f2757083c5a33da18b26d4bfd4f1/4/3.gif)
-![Visualization 4](https://raw.githubusercontent.com/azizulkabirjayed/azizulkabirjayed/b187c3f1c782f2757083c5a33da18b26d4bfd4f1/4/4.gif)
+![Visualization 1](./Images/1.gif)
+![Visualization 2](./Images/2.gif)
+![Visualization 3](./Images/3.gif)
+![Visualization 4](./Images/4.gif)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 # Database Schema Diagram
-<img src="schema_diagram.jpg">
+<img src="./Images/schema_diagram.jpg">
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
